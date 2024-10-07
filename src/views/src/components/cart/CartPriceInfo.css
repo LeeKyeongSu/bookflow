@@ -1,0 +1,13 @@
+.price-info{
+    background-color: white;
+    border-color: lightgray;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 20px;
+    width: 270px;
+    height: 310px;
+}
+
+#but-info{
+    font-size: 22px;
+}
